@@ -1,11 +1,11 @@
 {
   "reglament_created": "Создал(а) регламент",
   "reglament_required_set": "Отметил(а) регламент как обязательный",
-  "reglament_required_unset":"Отметил(а) регламент как необязательный",
+  "reglament_required_unset": "Отметил(а) регламент как необязательный",
   "reglament_update": "Обновил(а) регламент и сбросил(а) участников, прошедших регламент",
   "ping_to_all": "@Всем",
   "ping_to_performer": "@Исполнитель",
-  "task_added_responsible":"Установил(а) исполнителя: {name}",
+  "task_added_responsible": "Установил(а) исполнителя: {name}",
   "@task_added_responsible": {
     "placeholders": {
       "name": {
@@ -14,7 +14,7 @@
       }
     }
   },
-  "task_changed_responsible":"Сменил(а) исполнителя на: {name}",
+  "task_changed_responsible": "Сменил(а) исполнителя на: {name}",
   "@task_changed_responsible": {
     "placeholders": {
       "name": {
@@ -24,7 +24,7 @@
     }
   },
   "new_responsible": "Новый исполнитель ",
-  "task_deleted_responsible":"Снял(а) исполнителя: {name}",
+  "task_deleted_responsible": "Снял(а) исполнителя: {name}",
   "@task_deleted_responsible": {
     "placeholders": {
       "name": {
@@ -34,10 +34,10 @@
     }
   },
   "task_deleted_unknown_responsible": "Снял(а) исполнителя",
-  "task_completed":"Завершил(а) задачу",
-  "task_rejected":"Отменил(а) задачу",
-  "task_in_work":"Вернул(а) задачу в работу",
-  "task_project_chagned":"Перенес(ла) задачу в проект: {project}",
+  "task_completed": "Завершил(а) задачу",
+  "task_rejected": "Отменил(а) задачу",
+  "task_in_work": "Вернул(а) задачу в работу",
+  "task_project_chagned": "Перенес(ла) задачу в проект: {project}",
   "@task_project_chagned": {
     "placeholders": {
       "project": {
@@ -47,10 +47,9 @@
     }
   },
   "task_delegated": "Поручил(а) Вам задачу",
-  
   "member_deleted": "Убрал(а) Вам доступ к пространству",
   "member_deleted_themselves_for_owner": "Вышел(а) из пространства",
-  "member_deleted_for_owner": "Исключил(а) пользователя {name} из пространства",
+  "member_deleted_for_owner": "Убрал(а) пользователя {name} из пространства",
   "@member_deleted_for_owner": {
     "placeholders": {
       "name": {
@@ -59,10 +58,10 @@
       }
     }
   },
-  "member_added":"Добавил(а) Вас в пространство",
-  "member_accept_invite":"Принял(а) приглашение в пространство",
-  "member_added_from_space_link":"Вступил(а) в пространство по ссылке",
-  "member_added_for_owner":"Добавил(а) пользователя {name} в пространство",
+  "member_added": "Добавил(а) Вас в пространство",
+  "member_accept_invite": "Принял(а) приглашение в пространство",
+  "member_added_from_space_link": "Вступил(а) в пространство по ссылке",
+  "member_added_for_owner": "Добавил(а) пользователя {name} в пространство",
   "@member_added_for_owner": {
     "placeholders": {
       "name": {
@@ -71,10 +70,9 @@
       }
     }
   },
-  "task_deleted":"Удалил(а) задачу",
-  "task_sent_to_archive":"Отправил(а) задачу в архив",
-  "task_member_removed":"Удалил(а) Вас из участников задачи",
-
+  "task_deleted": "Удалил(а) задачу",
+  "task_sent_to_archive": "Отправил(а) задачу в архив",
+  "task_member_removed": "Удалил(а) Вас из участников задачи",
   "filter_active_tasks": "Активные",
   "filter_completed_tasks": "Завершенные",
   "all_tasks": "Все задачи",
